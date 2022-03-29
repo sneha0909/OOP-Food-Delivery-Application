@@ -30,10 +30,5 @@ namespace Shukla_Project4
             this.id = id;
             this.birthday = birthday;
         }
-
-
-
-
-
     }
 }
